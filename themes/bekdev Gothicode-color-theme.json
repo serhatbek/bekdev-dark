@@ -4,14 +4,20 @@
     // General
     "editor.background": "#080808",
     "editor.foreground": "#eeffff",
-    "foreground": "#f2eded",
-    "activityBarBadge.background": "#343333",
     "sideBarTitle.foreground": "#e4e4e4",
     "selection.background": "#323232",
     "focusBorder": "#363636",
     "progressBar.background": "#9dadba",
     // Activity Bar
-    "activityBar.foreground": "#bababa"
+    "activityBar.foreground": "#bababa",
+    "activityBar.background": "#080808",
+    "activityBar.activeBackground": "#080808",
+    "foreground": "#f2eded",
+    "activityBarBadge.background": "#be3e62",
+    "activityBarBadge.foreground": "#e2e2e2",
+    "activityBar.inactiveForeground": "#d1d0d066",
+    "activityBar.border": "#4b4b4b",
+    "activityBarTop.activeBackground": "#080808"
   },
   "tokenColors": [
     {

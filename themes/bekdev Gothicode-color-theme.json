@@ -13,7 +13,7 @@
     "activityBar.activeBackground": "#080808",
     "foreground": "#f2eded",
     "activityBarBadge.background": "#be3e62",
-    "activityBarBadge.foreground": "#e2e2e2",
+    "activityBarBadge.foreground": "#fffefe",
     "activityBar.inactiveForeground": "#d1d0d066",
     "activityBar.border": "#4b4b4b10",
     "activityBarTop.activeBackground": "#080808",
@@ -37,7 +37,18 @@
     "listFilterWidget.background": "#171717",
     "listFilterWidget.outline": "#5454546c",
     "listFilterWidget.noMatchesOutline": "#b8305d",
-    "tree.indentGuidesStroke": "#1b1a1a"
+    "tree.indentGuidesStroke": "#1b1a1a",
+    // Status Bar
+    "statusBar.foreground": "#c7c7c7",
+    "statusBar.background": "#080808",
+    "statusBarItem.hoverBackground": "#262626d7",
+    "statusBar.border": "#62626219",
+    "statusBar.debuggingBackground": "#080808",
+    "statusBar.debuggingForeground": "#c7c7c7",
+    "statusBar.debuggingBorder": "#4b4b4b",
+    "statusBar.noFolderBorder": "#4b4b4b",
+    "statusBarItem.remoteBackground": "#be3e62",
+    "statusBarItem.remoteForeground": "#fffefe"
   },
   "tokenColors": [
     {

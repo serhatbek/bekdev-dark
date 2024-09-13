@@ -1,7 +1,7 @@
 {
-  "name": "bekdev-dark",
+  "name": "bekdev-dark-gothicode",
   "displayName": "bekdev Gothicode",
-  "description": "bekdev dark theme!",
+  "description": "bekdev Dark Gothicode Theme",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.93.0"
@@ -12,9 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "bekdev Gothicode",
+        "label": "bekdev Dark Gothicode",
         "uiTheme": "vs-dark",
-        "path": "./themes/bekdev Gothicode-color-theme.json"
+        "path": "./themes/bekdev Dark Gothicode-color-theme.json"
       }
     ]
   }

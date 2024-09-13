@@ -63,7 +63,14 @@
     "statusBar.debuggingBorder": "#4b4b4b",
     "statusBar.noFolderBorder": "#4b4b4b",
     "statusBarItem.remoteBackground": "#be3e62",
-    "statusBarItem.remoteForeground": "#fffefe"
+    "statusBarItem.remoteForeground": "#fffefe",
+    // Buttons
+    "button.background": "#82AAFF",
+    "button.foreground": "#e0dede",
+    "button.hoverBackground": "#88a4df",
+    "button.secondaryBackground": "#82AAFF",
+    "button.secondaryForeground": "#e0dede",
+    "button.secondaryHoverBackground": "#88a4df"
   },
   "tokenColors": [
     {

@@ -70,7 +70,15 @@
     "button.hoverBackground": "#88a4df",
     "button.secondaryBackground": "#82AAFF",
     "button.secondaryForeground": "#e0dede",
-    "button.secondaryHoverBackground": "#88a4df"
+    "button.secondaryHoverBackground": "#88a4df",
+    //  Inputs
+    "input.background": "#131313",
+    "input.border": "#00000000",
+    "input.foreground": "#cfcfcf",
+    "input.placeholderForeground": "#a6a6a6",
+    "inputOption.activeBackground": "#292b2c",
+    "inputOption.activeBorder": "#5656568f",
+    "inputOption.activeForeground": "#ffffff"
   },
   "tokenColors": [
     {

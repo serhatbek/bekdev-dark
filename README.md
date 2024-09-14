@@ -1,4 +1,4 @@
-# bekdev-dark-gothicode README
+# Dark Gothicode
 
 ## Working with Markdown
 

@@ -105,16 +105,21 @@
     "terminal.ansiBrightYellow": "#d1d1a0",
     // Tabs
     "editorGroupHeader.tabsBackground": "#0c0c0d",
-    // "editorGroupHeader.border": "#565656",
+    // "editorGroupHeader.tabsBorder": "#565656",
     "tab.activeForeground": "#d1d0d0",
     "tab.border": "#56565669",
     "tab.activeBorder": "#00000000",
-    "tab.activeBorderTop": "#565656",
+    "tab.activeBorderTop": "#8d8d8d",
     "tab.inactiveBackground": "#191919",
-    "tab.inactiveForeground": "#b2b2b28c",
+    "tab.inactiveForeground": "#b2b2b296",
     "tab.hoverBackground": "#0f0f0f",
-    "tab.hoverForeground": "#8c8c8c",
-    "tab.hoverBorder": "#565656"
+    "tab.hoverForeground": "#9e9e9e",
+    "tab.hoverBorder": "#9f9f9f",
+    // Breadcrumbs
+    "breadcrumb.background": "#0c0c0d",
+    "breadcrumb.foreground": "#cccccccc",
+    "breadcrumb.focusForeground": "#d7d7d7",
+    "editorGroupHeader.border": "#2e2e2e"
   }
   // "tokenColors": [
   //   {

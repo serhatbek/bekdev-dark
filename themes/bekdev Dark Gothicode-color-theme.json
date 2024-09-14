@@ -128,7 +128,18 @@
     "pickerGroup.foreground": "#b8b8b8",
     "editorWidget.resizeBorder": "#6f6f6f",
     "debugToolBar.background": "#0a0a0a",
-    "debugToolBar.border": "#323232"
+    "debugToolBar.border": "#323232",
+    // Notifications
+    "notifications.foreground": "#a7a7a7",
+    "notifications.background": "#0a0a0a",
+    "notificationToast.border": "#474747",
+    "notificationsErrorIcon.foreground": "#f48771",
+    "notificationsWarningIcon.foreground": "#cca700",
+    "notificationsInfoIcon.foreground": "#75beff",
+    "notificationCenterHeader.foreground": "#bebebe",
+    "notificationCenterHeader.background": "#040404",
+    "notifications.border": "#383838",
+    "notificationCenter.border": "#303030"
   }
   // "tokenColors": [
   //   {

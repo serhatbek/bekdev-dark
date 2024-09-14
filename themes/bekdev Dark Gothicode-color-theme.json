@@ -119,7 +119,16 @@
     "breadcrumb.background": "#0c0c0d",
     "breadcrumb.foreground": "#cccccccc",
     "breadcrumb.focusForeground": "#d7d7d7",
-    "editorGroupHeader.border": "#2e2e2e"
+    "editorGroupHeader.border": "#2e2e2e",
+    // Widget
+    "widget.shadow": "#0d0d0d5c",
+    "editorWidget.foreground": "#a7a7a7",
+    "editorWidget.background": "#0d0d0d",
+    "pickerGroup.border": "#2e2e2e",
+    "pickerGroup.foreground": "#b8b8b8",
+    "editorWidget.resizeBorder": "#6f6f6f",
+    "debugToolBar.background": "#0a0a0a",
+    "debugToolBar.border": "#323232"
   }
   // "tokenColors": [
   //   {

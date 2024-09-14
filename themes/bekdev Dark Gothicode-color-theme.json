@@ -139,7 +139,17 @@
     "notificationCenterHeader.foreground": "#bebebe",
     "notificationCenterHeader.background": "#040404",
     "notifications.border": "#383838",
-    "notificationCenter.border": "#303030"
+    "notificationCenter.border": "#303030",
+    // Git Decorations
+    "gitDecoration.addedResourceForeground": "#6e9b76",
+    "gitDecoration.conflictingResourceForeground": "#6d6da7",
+    "gitDecoration.deletedResourceForeground": "#a14d3f",
+    "gitDecoration.ignoredResourceForeground": "#8c8c8c",
+    "gitDecoration.modifiedResourceForeground": "#b6a285",
+    "gitDecoration.stageDeletedResourceForeground": "#ab5344",
+    "gitDecoration.stageModifiedResourceForeground": "#a79984",
+    "gitDecoration.submoduleResourceForeground": "#7e9cb8",
+    "gitDecoration.untrackedResourceForeground": "#6aa57e"
   }
   // "tokenColors": [
   //   {

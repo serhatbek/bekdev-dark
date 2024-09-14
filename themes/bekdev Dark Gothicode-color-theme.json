@@ -78,7 +78,13 @@
     "input.placeholderForeground": "#a6a6a6",
     "inputOption.activeBackground": "#292b2c",
     "inputOption.activeBorder": "#5656568f",
-    "inputOption.activeForeground": "#ffffff"
+    "inputOption.activeForeground": "#ffffff",
+    // Terminal Panel
+    "panelTitle.activeForeground": "#dfdddd",
+    "terminal.selectionBackground": "#60606040",
+    "terminalCursor.foreground": "#cfcfcf",
+    "terminalCursor.background": "#434343",
+    "badge.background": "#be3e62"
   },
   "tokenColors": [
     {
